@@ -1,0 +1,48 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.6.3
+  QtBtButtons.cpp
+  main.cpp
+C:\Users\Silentium\source\repos\QtBtController\main.cpp(1,1): warning C4828: The file contains a character starting at offset 0x339 that is illegal in the current source character set (codepage 65001).
+C:\Users\Silentium\source\repos\QtBtController\main.cpp(1,1): warning C4828: The file contains a character starting at offset 0x34b that is illegal in the current source character set (codepage 65001).
+C:\Users\Silentium\source\repos\QtBtController\main.cpp(1,1): warning C4828: The file contains a character starting at offset 0x466 that is illegal in the current source character set (codepage 65001).
+C:\Users\Silentium\source\repos\QtBtController\main.cpp(1,1): warning C4828: The file contains a character starting at offset 0x4e6 that is illegal in the current source character set (codepage 65001).
+C:\Users\Silentium\source\repos\QtBtController\main.cpp(1,1): warning C4828: The file contains a character starting at offset 0x515 that is illegal in the current source character set (codepage 65001).
+C:\Users\Silentium\source\repos\QtBtController\main.cpp(1,1): warning C4828: The file contains a character starting at offset 0x51d that is illegal in the current source character set (codepage 65001).
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.h(16,5): error C2653: 'Ui': is not a class or namespace name
+  (compiling source file 'main.cpp')
+  
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.h(16,5): error C2653: 'Ui': is not a class or namespace name
+  (compiling source file 'QtBtButtons.cpp')
+  
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.h(16,26): error C3646: 'ui': unknown override specifier
+  (compiling source file 'QtBtButtons.cpp')
+  
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.h(16,26): error C3646: 'ui': unknown override specifier
+  (compiling source file 'main.cpp')
+  
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.h(16,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.h(16,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'QtBtButtons.cpp')
+  
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.cpp(3,1): error C2653: 'QtBtButtons': is not a class or namespace name
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.cpp(3,37): error C2143: syntax error: missing ')' before '*'
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.cpp(3,37): error C2143: syntax error: missing ';' before '*'
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.cpp(3,44): error C2059: syntax error: ')'
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.cpp(3,38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.cpp(4,5): error C2059: syntax error: ':'
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.cpp(4,19): error C2040: 'parent': 'QMainWindow' differs in levels of indirection from 'int *'
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.cpp(6,5): error C2065: 'ui': undeclared identifier
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.cpp(6,16): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.cpp(6,21): error C2059: syntax error: ';'
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.cpp(7,1): error C2059: syntax error: '}'
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.cpp(7,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.cpp(10,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Silentium\source\repos\QtBtController\QtBtButtons.cpp(10,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Silentium\source\repos\QtBtController\main.cpp(25,25): error C2248: 'Controller::connectToDevice': cannot access private member declared in class 'Controller'
+      C:\Users\Silentium\source\repos\QtBtController\Controller.h(4,14):
+      see declaration of 'Controller::connectToDevice'
+      C:\Users\Silentium\source\repos\QtBtController\Controller.h(2,7):
+      see declaration of 'Controller'
+  
